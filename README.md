@@ -9,8 +9,7 @@ This Java program establishes a connection with a PostgreSQL database and demons
 # Setup
 - Make sure you have a PostgreSQL database running.
 - Replace the connection URL, username, and password in the PostgreSQLJDBCConnection class with your database credentials.
-java
-- Copy code: 
+- Edit these constant values before running.
 -- private static final String url = "jdbc:postgresql://localhost:5432/Assignment3";
 -- private static final String user = "postgres";
 -- private static final String password = "your_password";
@@ -18,9 +17,9 @@ java
 # Usage
 Compile the PostgreSQLJDBCConnection.java file.
 
-- Copy code:
--- javac PostgreSQLJDBCConnection.java
--- java PostgreSQLJDBCConnection
+## Copy code:
+- javac PostgreSQLJDBCConnection.java
+- java PostgreSQLJDBCConnection
 
 # Operations
 -The program demonstrates the following operations:
