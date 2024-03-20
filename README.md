@@ -18,14 +18,9 @@ java
 # Usage
 Compile the PostgreSQLJDBCConnection.java file.
 
-
--Copy code:
---javac PostgreSQLJDBCConnection.java
-
--Run the compiled Java program.
-
--Copy code:
---java PostgreSQLJDBCConnection
+- Copy code:
+-- javac PostgreSQLJDBCConnection.java
+-- java PostgreSQLJDBCConnection
 
 # Operations
 -The program demonstrates the following operations:
