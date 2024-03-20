@@ -2,11 +2,11 @@
 # PostgreSQL JDBC Connection
 This Java program establishes a connection with a PostgreSQL database and demonstrates basic CRUD (Create, Read, Update, Delete) operations on a table named students.
 
-##Prerequisites
+#Prerequisites
 -PostgreSQL database installed on your local machine.
 -JDBC driver for PostgreSQL.
 
-##Setup
+#Setup
 -Make sure you have a PostgreSQL database running.
 -Replace the connection URL, username, and password in the PostgreSQLJDBCConnection class with your database credentials.
 java
@@ -15,7 +15,7 @@ java
 --private static final String user = "postgres";
 --private static final String password = "your_password";
 
-##Usage
+#Usage
 Compile the PostgreSQLJDBCConnection.java file.
 
 
